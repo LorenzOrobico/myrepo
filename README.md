@@ -1,2 +1,2 @@
-# general repo for generic stuff
+# general repo for stuff
 
