@@ -1,2 +1,2 @@
-# general repo for stuff
+# general stuff
 
